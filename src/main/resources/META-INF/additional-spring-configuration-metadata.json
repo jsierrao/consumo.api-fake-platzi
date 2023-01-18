@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "consumo-api-platzi.listarproducto",
+    "type": "java.lang.String",
+    "description": "A description for 'consumo-api-platzi.listarproducto'"
+  },
+  {
+    "name": "consumo-api-platzi.listarProducto",
+    "type": "java.lang.String",
+    "description": "A description for 'consumo-api-platzi.listarProducto'"
+  },
+  {
+    "name": "consumo-api-platzi.listarCategoria",
+    "type": "java.lang.String",
+    "description": "A description for 'consumo-api-platzi.listarCategoria'"
+  },
+  {
+    "name": "consumo-api-platzi.crearProducto",
+    "type": "java.lang.String",
+    "description": "A description for 'consumo-api-platzi.crearProducto'"
+  },
+  {
+    "name": "consumo-api-platzi.listarProducto",
+    "type": "java.lang.String",
+    "description": "A description for 'consumo-api-platzi.listarProducto'"
+  },
+  {
+    "name": "consumo-api-platzi.listarProducto",
+    "type": "java.lang.String",
+    "description": "A description for 'consumo-api-platzi.listarProducto'"
+  },
+  {
+    "name": "consumo-api-platzi.listarProducto",
+    "type": "java.lang.String",
+    "description": "A description for 'consumo-api-platzi.listarProducto'"
+  },
+  {
+    "name": "consumo-api-platzi.listarProducto",
+    "type": "java.lang.String",
+    "description": "A description for 'consumo-api-platzi.listarProducto'"
+  },
+  {
+    "name": "consumo-api-platzi.listarProducto",
+    "type": "java.lang.String",
+    "description": "A description for 'consumo-api-platzi.listarProducto'"
+  }
+]}
